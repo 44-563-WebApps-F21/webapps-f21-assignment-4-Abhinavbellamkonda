@@ -106,3 +106,8 @@ table, td, th {
   th, td {
     padding: 17px;
   }
+  
+  .Editedtext{
+    font-size: 15px;
+    color: rgba(133, 102, 2, 0.993); 
+  }
