@@ -80,3 +80,29 @@ h6 {
     color:rgb(133, 77, 128);
 }
 
+table, td, th {  
+    border: 1px solid yellow;
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 20px;
+  }
+  td {  
+    border: 1px solid red;
+    text-align: center;
+    padding-top: 2px;
+    padding-bottom: 5px;
+  }
+ th {  
+    border: 1px solid blue;
+    text-align: center;
+    margin-top: 7px;
+   margin-bottom: 6px;
+  }
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    padding: 17px;
+  }
