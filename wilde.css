@@ -1,0 +1,82 @@
+h6 {
+    font-size: 15px;
+    color: black;
+  }
+  .stageDirectionparagraph {
+    background-color: cornflowerblue;
+    font-size: 15px;
+    color: black;
+
+  }
+
+  .stageDirectionparagraph:hover {
+    background-color: rgb(208, 255, 0);
+    color:rgb(255, 153, 0)
+  }
+  .speechparagraph{
+    font-size: 15px;
+    color: black;  
+  }
+
+.LordWindermere{
+    color:rgb(255, 8, 0);
+}
+.LordDarlington{
+    color:rgb(206, 228, 15);
+}
+
+.LordAugustusLorton{
+    color:rgb(0, 255, 76);
+}
+
+.Mr.Dumby{
+    color:rgb(0, 19, 128);
+}
+
+.Mr.CecilGraham{
+    color:rgb(255, 0, 0);
+}
+
+.Mr.Hopper{
+    color:rgb(213, 47, 255);
+}
+
+.Parker{
+    color:rgb(126, 123, 116);
+}
+
+.LadyWindermere{
+    color:rgb(142, 73, 207);
+}
+
+.TheDuchessofBerwick{
+    color:rgba(255, 68, 0, 0.26);
+}
+
+.LadyAgathaCarlisle{
+    color:rgb(53, 4, 51);
+}
+
+.LadyPlymdale{
+    color:rgb(170, 253, 5);
+}
+
+.LadyStutfield{
+    color:rgb(252, 206, 120);
+}
+
+.LadyJedburgh{
+    color:rgb(250, 250, 210);
+}
+
+.Mrs.Cowper-Cowper{
+    color:rgb(39, 0, 0);
+}
+
+.Mrs.Erlynne{
+    color:rgb(77, 77, 133);
+}
+.Rosalie{
+    color:rgb(133, 77, 128);
+}
+
