@@ -43,25 +43,26 @@ h6 {
 .Mrs.Cowper-Cowper{
     color:blueviolet
 }
+
 td {
-    border: 1px solid blue;
+    border: 1px solid rgba(76, 4, 143, 0.767);
     text-align: left;
-    padding-top: 2px;
-    padding-bottom: 2px;
+    padding-top: 4px;
+    padding-bottom: 4px;
   }
   th {
-    border: 1px solid palevioletred;
+    border: 1px solid rgba(138, 2, 47, 0.527);
     text-align: left;
-    margin-top: 2px;
-    margin-bottom: 2px;
+    margin-top: 4px;
+    margin-bottom: 4px;
   }
   table {
     border-collapse: collapse;
-    width: 100%;
+    width: 70%;
   }
   th,
   td {
-    padding: 15px;
+    padding: 10px;
   }
   .combine {
     display: flex;
