@@ -2,6 +2,15 @@ h6 {
     font-size: 15px;
     color:black;
   }
+  .name{
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      font-size: medium;
+      color: black;
+  }
+  .name:hover{
+      text-shadow: 2px 2px 5px yellow;
+      
+  }
 .stageDirectionparagraph {
     background-color: rgb(202, 207, 186);
     font-size: 15px;
@@ -43,7 +52,19 @@ h6 {
 .Mrs.Cowper-Cowper{
     color:blueviolet
 }
+.DUCHESSOFBERWICK :hover{
+    text-shadow: 2px 3px 4px rgb(157, 209, 15);
+    border-style:double;
+    color:rgb(221, 218, 22);
+    background-color: yellow;
+  }
+  .LADYAGATHA :hover{
+    text-shadow: 2px 3px 4px rgb(100, 237, 203);
+    border-style:solid;
+    color:rgb(240, 240, 21);
+  }
 
+  
 td {
     border: 1px solid rgba(76, 4, 143, 0.767);
     text-align: left;
@@ -69,3 +90,4 @@ td {
     flex-direction: row;
     align-items: center;
   }  
+  
