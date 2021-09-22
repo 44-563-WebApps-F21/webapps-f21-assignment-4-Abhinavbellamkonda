@@ -1,113 +1,45 @@
 h6 {
     font-size: 15px;
-    color: black;
+    color:black;
   }
-  .stageDirectionparagraph {
-    background-color: cornflowerblue;
+.stageDirectionparagraph {
+    background-color: rgb(72, 183, 235);
     font-size: 15px;
-    color: black;
+    color: rgba(20, 20, 19, 0.959);
 
   }
 
-  .stageDirectionparagraph:hover {
-    background-color: rgb(208, 255, 0);
-    color:rgb(255, 153, 0)
+.stageDirectionparagraph:hover {
+    background-color: yellow;
+    color:rgb(139, 1, 1);
   }
-  .speechparagraph{
+.speechparagraph{
     font-size: 15px;
-    color: black;  
+    color: rgb(46, 1, 1);  
   }
 
-.LordWindermere{
-    color:rgb(255, 8, 0);
+.DUCHESSOFBERWICK{
+    color:rgb(216, 24, 24);
 }
-.LordDarlington{
-    color:rgb(206, 228, 15);
-}
-
-.LordAugustusLorton{
-    color:rgb(0, 255, 76);
+.LADYAGATHA{
+    color:rgb(243, 131, 3);
 }
 
-.Mr.Dumby{
-    color:rgb(0, 19, 128);
+.STUTFIELD{
+    color:rgba(245, 222, 14, 0.986);
 }
 
-.Mr.CecilGraham{
-    color:rgb(255, 0, 0);
+.DUMBY{
+    color:rgb(8, 255, 8);
 }
 
-.Mr.Hopper{
-    color:rgb(213, 47, 255);
+.PARKER{
+    color:rgb(6, 6, 252);
 }
 
-.Parker{
-    color:rgb(126, 123, 116);
+.HOPPER{
+    color:rgba(110, 1, 252, 0.986);
 }
-
-.LadyWindermere{
-    color:rgb(142, 73, 207);
-}
-
-.TheDuchessofBerwick{
-    color:rgba(255, 68, 0, 0.26);
-}
-
-.LadyAgathaCarlisle{
-    color:rgb(53, 4, 51);
-}
-
-.LadyPlymdale{
-    color:rgb(170, 253, 5);
-}
-
-.LadyStutfield{
-    color:rgb(252, 206, 120);
-}
-
-.LadyJedburgh{
-    color:rgb(250, 250, 210);
-}
-
 .Mrs.Cowper-Cowper{
-    color:rgb(39, 0, 0);
+    color:blueviolet
 }
-
-.Mrs.Erlynne{
-    color:rgb(77, 77, 133);
-}
-.Rosalie{
-    color:rgb(133, 77, 128);
-}
-
-table, td, th {  
-    border: 1px solid yellow;
-    text-align: center;
-    margin-top: 60px;
-    margin-bottom: 20px;
-  }
-  td {  
-    border: 1px solid red;
-    text-align: center;
-    padding-top: 2px;
-    padding-bottom: 5px;
-  }
- th {  
-    border: 1px solid blue;
-    text-align: center;
-    margin-top: 7px;
-   margin-bottom: 6px;
-  }
-  table {
-    border-collapse: collapse;
-    width: 100%;
-  }
-  
-  th, td {
-    padding: 17px;
-  }
-  
-  .Editedtext{
-    font-size: 15px;
-    color: rgba(133, 102, 2, 0.993); 
-  }
