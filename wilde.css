@@ -9,6 +9,9 @@ h6 {
   }
   .name:hover{
       text-shadow: 2px 2px 5px yellow;
+      border-style: dotted;
+      filter: blur(1px);
+      -webkit-filter: blur(1px);
 
   }
 .stageDirectionparagraph {
@@ -81,3 +84,21 @@ td {
     align-items: center;
   }  
   
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #dddddd;
+    width: auto;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    padding: 8px;
+    width: auto;
+  }
