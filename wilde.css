@@ -90,7 +90,7 @@ td {
     padding: 0;
     overflow: hidden;
     background-color: #dddddd;
-    width: auto;
+    width: fit-content;
   }
   
   li {
@@ -100,5 +100,5 @@ td {
   li a {
     display: block;
     padding: 8px;
-    width: auto;
+    width: fit-content;
   }
